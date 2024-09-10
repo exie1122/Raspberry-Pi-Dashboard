@@ -11,6 +11,7 @@ This script requires the following Python packages:
 
 Install them using:
 ```
+#requires you to be in a python virtual environment, you can add --break-system-packages after the command but it's not recommended
 pip install Flask psutil
 ```
 
